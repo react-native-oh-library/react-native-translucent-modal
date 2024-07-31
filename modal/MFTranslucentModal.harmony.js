@@ -21,6 +21,6 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-import { Modal } from 'react-native';
+import Modal from "react-native-translucent-modal/modal/MFTranslucentModal.ios";
 
 export default Modal;
